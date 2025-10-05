@@ -226,8 +226,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\n\n⚠️ Critical Pod Fault %1$03d (0x%2$02X)"
+            "state" : "translated",
+            "value" : "\n\n⚠️ Kritická chyba Podu %1$03d (0x%2$02X)"
           }
         },
         "sv" : {
@@ -357,8 +357,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\n  Immediate Bolus In Progress: %1$@"
+            "state" : "translated",
+            "value" : "\n  Prebieha okamžitý bolus: %1$@"
           }
         },
         "sv" : {
@@ -488,8 +488,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\n  Insulin State Table Corrupted: %@"
+            "state" : "translated",
+            "value" : "\nTabuľka stavu inzulínu je poškodená: %@"
           }
         },
         "sv" : {
@@ -619,8 +619,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\n  Occlusion Type: %1$@"
+            "state" : "translated",
+            "value" : "\n  Typ oklúzie: %1$@"
           }
         },
         "sv" : {
@@ -750,8 +750,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\n  Previous Pod Progress: %1$@"
+            "state" : "translated",
+            "value" : "\nPredchádzajúci priebeh Poda: %1$@"
           }
         },
         "sv" : {
@@ -881,8 +881,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nAlerts: %1$@"
+            "state" : "translated",
+            "value" : "\nUpozornenia: %1$@"
           }
         },
         "sv" : {
@@ -1012,8 +1012,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nBolus Not Delivered: %1$@ U"
+            "state" : "translated",
+            "value" : "\nBolus nebol podaný: %1$@ U"
           }
         },
         "sv" : {
@@ -1143,8 +1143,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nDelivery Status: %1$@"
+            "state" : "translated",
+            "value" : "\nStav podania: %1$@"
           }
         },
         "sv" : {
@@ -1274,8 +1274,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nFault Event Info: %1$03d (0x%2$02X),"
+            "state" : "translated",
+            "value" : "\nInformácie o chybe: %1$03d (0x%2$02X),"
           }
         },
         "sv" : {
@@ -1405,8 +1405,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nFault Time: %1$@"
+            "state" : "translated",
+            "value" : "\nČas chyby: %1$@"
           }
         },
         "sv" : {
@@ -1536,8 +1536,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nLast Programming Seq Num: %1$@"
+            "state" : "translated",
+            "value" : "\nPosledné sekvenčné číslo programovania: %1$@"
           }
         },
         "sv" : {
@@ -1667,8 +1667,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nPod Progress: %1$@"
+            "state" : "translated",
+            "value" : "\nPriebeh Poda: %1$@"
           }
         },
         "sv" : {
@@ -1798,8 +1798,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nPulse Count: %1$d"
+            "state" : "translated",
+            "value" : "\nPočet pulzov: %1$d"
           }
         },
         "sv" : {
@@ -1929,8 +1929,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nReceiver Low Gain: %1$@"
+            "state" : "translated",
+            "value" : "\nNízke zosilnenie prijímača: %1$@"
           }
         },
         "sv" : {
@@ -2060,7 +2060,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "\nRef: %@"
           }
         },
@@ -2191,8 +2191,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nReservoir Level: %1$@ U"
+            "state" : "translated",
+            "value" : "\nÚroveň zásobníka: %1$@ J"
           }
         },
         "sv" : {
@@ -2322,7 +2322,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "\nRSSI: %1$@"
           }
         },
@@ -3762,8 +3762,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ minutes"
+            "state" : "translated",
+            "value" : "%1$@ minút"
           }
         },
         "sv" : {
@@ -7181,8 +7181,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bluetooth is powered off"
+            "state" : "translated",
+            "value" : "Bluetooth je vypnutý"
           }
         },
         "sv" : {
@@ -7312,8 +7312,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bluetooth is resetting"
+            "state" : "translated",
+            "value" : "Bluetooth sa resetuje"
           }
         },
         "sv" : {
@@ -11904,8 +11904,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not parse message: %1$@"
+            "state" : "translated",
+            "value" : "Nepodarilo sa spracovať správu: %1$@"
           }
         },
         "sv" : {
@@ -12166,8 +12166,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical Pod Fault %1$03d"
+            "state" : "translated",
+            "value" : "Kritická chyba Podu %1$03d"
           }
         },
         "sv" : {
@@ -14931,8 +14931,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Expiration reminder"
+            "state" : "translated",
+            "value" : "Pripomienka exspirácie"
           }
         },
         "sv" : {
@@ -15324,8 +15324,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Expiration reminder time for the current Pod."
+            "state" : "translated",
+            "value" : "Pripomenutie vypršania času platnosti pre aktuálny Pod."
           }
         },
         "sv" : {
@@ -15717,8 +15717,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Extended bolus running while suspended"
+            "state" : "translated",
+            "value" : "Rozšírený bolus beží počas pozastavenia"
           }
         },
         "sv" : {
@@ -16110,8 +16110,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to play test beeps."
+            "state" : "translated",
+            "value" : "Nepodarilo sa prehrať testovacie pípnutia."
           }
         },
         "sv" : {
@@ -16241,8 +16241,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read activation time."
+            "state" : "translated",
+            "value" : "Nepodarilo sa prečítať čas aktivácie."
           }
         },
         "sv" : {
@@ -16372,8 +16372,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read pod status."
+            "state" : "translated",
+            "value" : "Nepodarilo sa prečítať stav Podu."
           }
         },
         "sv" : {
@@ -16634,8 +16634,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read pulse log."
+            "state" : "translated",
+            "value" : "Zlyhalo čítanie záznamu pulzov."
           }
         },
         "sv" : {
@@ -16765,8 +16765,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read triggered alerts."
+            "state" : "translated",
+            "value" : "Nepodarilo sa prečítať spustené upozornenia."
           }
         },
         "sv" : {
@@ -31077,8 +31077,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Playing Test Beeps..."
+            "state" : "translated",
+            "value" : "Prehrávanie testovacích pípnutí..."
           }
         },
         "sv" : {
@@ -34773,8 +34773,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pod Fault %1$03d"
+            "state" : "translated",
+            "value" : "Chyba Podu: %1$03d"
           }
         },
         "sv" : {
@@ -36352,8 +36352,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pod setup is not complete"
+            "state" : "translated",
+            "value" : "Nastavenie Podu nie je dokončené"
           }
         },
         "sv" : {
@@ -36883,8 +36883,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Possible Bluetooth issue"
+            "state" : "translated",
+            "value" : "Možný problém s Bluetooth"
           }
         },
         "sv" : {
@@ -38979,8 +38979,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reading Activation Time..."
+            "state" : "translated",
+            "value" : "Čítanie času aktivácie..."
           }
         },
         "sv" : {
@@ -39110,8 +39110,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reading Pod Status..."
+            "state" : "translated",
+            "value" : "Čítanie stavu Podu..."
           }
         },
         "sv" : {
@@ -39910,7 +39910,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Ref: "
           }
         },
@@ -50940,8 +50940,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unexpected Alert"
+            "state" : "translated",
+            "value" : "Neočakávané upozornenie"
           }
         },
         "sv" : {
@@ -53429,8 +53429,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You will be notified when the amount of insulin in the Pod reaches a selected level.\n\nScroll to set the number of units (1 to 50) at which you would like to be reminded."
+            "state" : "translated",
+            "value" : "Budete upozornení, keď množstvo inzulínu v Pode dosiahne zvolenú úroveň.\n\nPrejdite na nastavenie počtu jednotiek (1 až 50), pri ktorých chcete byť upozornení."
           }
         },
         "sv" : {
@@ -53560,8 +53560,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You will be notified when the amount of insulin in the Pod reaches this level."
+            "state" : "translated",
+            "value" : "Keď množstvo inzulínu v Pode dosiahne túto úroveň, budete o tom informovaní."
           }
         },
         "sv" : {
@@ -53953,8 +53953,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Pod is ready for use.\n\nThe default reminder was scheduled for this Pod at setup. You can change the reminder to a more convenient time in Pod Notification Settings."
+            "state" : "translated",
+            "value" : "Váš Pod je pripravený na použitie.\n\nPredvolené pripomenutie bolo pre tento Pod naplánované pri nastavení. Pripomenutie môžete zmeniť na vhodnejší čas v nastaveniach upozornení Podu."
           }
         },
         "sv" : {
@@ -54084,8 +54084,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Pod may still be delivering Insulin.\nRemove it from your body, then tap “Continue.“"
+            "state" : "translated",
+            "value" : "Váš Pod môže stále dodávať inzulín.\nOdstráňte ho z tela a potom ťuknite na „Pokračovať“"
           }
         },
         "sv" : {
