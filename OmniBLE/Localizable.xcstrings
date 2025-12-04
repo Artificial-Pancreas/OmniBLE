@@ -1043,7 +1043,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "大剂量未注射：%1$@ U"
+            "value" : "追加胰岛素未注射：%1$@ 单位"
           }
         }
       }
@@ -9276,12 +9276,6 @@
             "value" : "Change Pod now. Insulin delivery will stop 8 hours after the Pod has expired or when no more insulin remains."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Livrarea insulinei se va opri la 8 ore după expirarea pompei sau când nu mai rămâne deloc insulină."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9411,12 +9405,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Change Pod now. Insulin delivery will stop in %1$@ or when no more insulin remains."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Livrarea insulinei se va opri în %1$@ sau când nu mai rămâne insulină."
           }
         },
         "ru" : {
@@ -9550,12 +9538,6 @@
             "value" : "Change Pod now. Insulin delivery will stop in 1 hour."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Administrarea insulinei se va opri într-o oră."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9685,12 +9667,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Change Pod now. Pod has been active for 72 hours."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Pompa a fost activă timp de 72 de ore."
           }
         },
         "ru" : {
@@ -11658,12 +11634,6 @@
             "value" : "Confirm Pod Attachment"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Confirmați atașarea pompei"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11924,12 +11894,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Could not parse message: %1$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-a putut analiza mesajul: %1$@"
           }
         },
         "ru" : {
@@ -13635,12 +13599,6 @@
             "value" : "Discard Pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Renunțați la pompă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14163,12 +14121,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resposta vazia do pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns gol primit de la pompă"
           }
         },
         "ru" : {
@@ -17236,8 +17188,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "暂停胰岛素推注失败"
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
           }
         }
       }
@@ -17982,12 +17934,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Fill a new pod with U-100 Insulin (leave blue Pod needle cap on)."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Umpleți o pompă nou cu insulină U-100  (nu înlăturați capacul albastru al acului de pe pompă)."
           }
         },
         "ru" : {
@@ -21534,12 +21480,6 @@
             "value" : "Falha interna do pod %1$03d"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Defecțiune internă a pompei %1$03d"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21669,12 +21609,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Internal Pod fault code %1$03d\n%2$@\nRef: %3$@\n"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cod de eroare intern al pompei %1$03d\n%2$@ \n Ref: %3$@ \n"
           }
         },
         "ru" : {
@@ -23780,12 +23714,6 @@
             "value" : "Make sure iPhone is nearby the active pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că iPhone-ul este în apropierea pompei active"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23915,12 +23843,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Make sure your phone and pod are close to each other. If communication issues persist, move to a new area."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că telefonul și pompa sunt aproape unul de celălalt. Dacă problemele de comunicare persistă, mutați-vă într-o zonă nouă."
           }
         },
         "ru" : {
@@ -24054,12 +23976,6 @@
             "value" : "Make sure your pod is filled and nearby."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că pompa este umplută și în apropiere."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24189,12 +24105,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Make sure your pod is nearby and try again."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că pompa dumneavoastră este în apropiere și încercați din nou."
           }
         },
         "ru" : {
@@ -25250,12 +25160,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Move to a new area away from any other pods and try again."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mutați-vă într-o zonă nouă, departe de orice alte pompe și încercați din nou."
           }
         },
         "ru" : {
@@ -26568,12 +26472,6 @@
             "value" : "No Pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niciuo pompă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26705,12 +26603,6 @@
             "value" : "No pod paired"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nicio pompă asociată"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26840,12 +26732,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "No pods found"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-au găsit pompe"
           }
         },
         "ru" : {
@@ -27108,12 +26994,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nenhuma resposta do pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-a primit răspuns de la pompă"
           }
         },
         "ru" : {
@@ -27383,12 +27263,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "No, Continue With Pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu, continuați cu pompa"
           }
         },
         "ru" : {
@@ -27953,8 +27827,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "没有足够数据"
+            "state" : "new",
+            "value" : "Not enough data"
           }
         }
       }
@@ -29493,12 +29367,6 @@
             "value" : "Pair Pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asociază o pompă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29628,12 +29496,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pair pod."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asociază o pompă"
           }
         },
         "ru" : {
@@ -29936,8 +29798,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "配对完成"
+            "state" : "new",
+            "value" : "Pairing completed"
           }
         }
       }
@@ -31338,12 +31200,6 @@
             "value" : "Please bring only original pod in range or deactivate original pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să aduceți doar pompa inițială în rază de acțiune sau dezactivați pompa inițială"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31482,12 +31338,6 @@
             "value" : "Traga seu pod para mais perto do RileyLink e tente novamente"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apropiați pompa de RileyLink și încercați din nou"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31617,12 +31467,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Please confirm that the Pod is securely attached to your body.\n\nThe cannula can be inserted only once with each Pod. Tap “Confirm” when Pod is attached."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să confirmați că pompa este bine fixată de corpul dumneavoastră. \n\nCanula poate fi introdusă doar o singură dată cu fiecare pompă. Atingeți „Confirmați” când pompa este fixată."
           }
         },
         "ru" : {
@@ -31756,12 +31600,6 @@
             "value" : "Please deactivate the pod. When deactivation is complete, you may pair a new pod."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să dezactivați pompa. Când dezactivarea este completă, puteți asocia o nouă pompă."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31891,12 +31729,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Please deactivate the pod. When deactivation is complete, you may remove it and pair a new pod."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să dezactivați pompa. Când dezactivarea este completă, îl puteți elimina și asociați o nouă pompă."
           }
         },
         "ru" : {
@@ -32161,12 +31993,6 @@
             "value" : "Please finish pairing your pod."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să terminați asocierea pompei."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32298,12 +32124,6 @@
             "value" : "Please pair a new pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asociați o pompă nouă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32433,12 +32253,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Please reposition iPhone further from the pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să repoziționați iPhone-ul mai departe de pompă"
           }
         },
         "ru" : {
@@ -32834,12 +32648,6 @@
             "value" : "Pod Activated"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă activată"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33102,12 +32910,6 @@
             "value" : "Pod already paired"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă deja asociată"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33246,12 +33048,6 @@
             "value" : "Pod já preparado"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă deja pregătită"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33381,12 +33177,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod deactivated successfully. Continue."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a fost dezactivată cu succes."
           }
         },
         "ru" : {
@@ -33782,12 +33572,6 @@
             "value" : "Pod Error"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare pompă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33924,12 +33708,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alarme de expiração do pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alarmă expirare pompă"
           }
         },
         "ru" : {
@@ -34070,12 +33848,6 @@
             "value" : "Aviso de Expiração do Pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notificare expirare pompă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34205,12 +33977,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Expiration Reminder"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Memento pentru expirarea pompei"
           }
         },
         "ru" : {
@@ -34344,12 +34110,6 @@
             "value" : "Pod expired"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a expirat."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34479,12 +34239,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Expired"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă expirată"
           }
         },
         "ru" : {
@@ -34618,12 +34372,6 @@
             "value" : "Pod Expires"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa expiră"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34755,12 +34503,6 @@
             "value" : "Pod expires in"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa expiră în"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34890,12 +34632,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod expires in %1$@."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa expiră în %1$@."
           }
         },
         "ru" : {
@@ -35160,12 +34896,6 @@
             "value" : "Pod Fault Details"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Detalii despre eroarea pompei"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35297,12 +35027,6 @@
             "value" : "Falha no Pod: %1$@"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Defecțiune Pompă: %1$@"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35432,12 +35156,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod is not in a state ready for cannula insertion."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa nu este pregătită pentru introducerea canulei."
           }
         },
         "ru" : {
@@ -35578,12 +35296,6 @@
             "value" : "O Pod não está em um estado pronto para preparação."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa nu este pregătită pentru amorsare."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35713,12 +35425,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O pod está suspenso"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa este suspendată"
           }
         },
         "ru" : {
@@ -35852,12 +35558,6 @@
             "value" : "Pod not connected"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa nu este conectată"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35987,12 +35687,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Occlusion"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocaj pompă"
           }
         },
         "ru" : {
@@ -36126,12 +35820,6 @@
             "value" : "Pod paired successfully. Continue."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a fost asociată cu succes. Continuați."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36261,12 +35949,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Pairing Incomplete"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asocierea pompei este nefinalizată."
           }
         },
         "ru" : {
@@ -36400,12 +36082,6 @@
             "value" : "Pod sent ack instead of response"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a trimis o confirmare în loc de răspuns"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36535,12 +36211,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Setup"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurare pompei"
           }
         },
         "ru" : {
@@ -36812,12 +36482,6 @@
             "value" : "A janela de configuração do pod expirou"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Intervalul de timp în care se poate seta pompa a expirat"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36949,12 +36613,6 @@
             "value" : "Pod suspended reminder"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Memento pentru pompa suspendată"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36993,8 +36651,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod 暂停提醒"
+            "state" : "new",
+            "value" : "Pod suspended reminder"
           }
         }
       }
@@ -37479,12 +37137,6 @@
             "value" : "Previous Pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa anterioară"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37916,8 +37568,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "灌注完成"
+            "state" : "new",
+            "value" : "Priming completed"
           }
         }
       }
@@ -40681,8 +40333,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "提醒功能已启动"
+            "state" : "new",
+            "value" : "Reminder initialized"
           }
         }
       }
@@ -40903,12 +40555,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Remove Pod from Body"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Înlăturați pompa de pe corp"
           }
         },
         "ru" : {
@@ -41171,12 +40817,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Substituir Pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Înlocuiți pompa"
           }
         },
         "ru" : {
@@ -42658,8 +42298,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "计划基础率"
+            "state" : "new",
+            "value" : "Scheduled basal"
           }
         }
       }
@@ -43706,8 +43346,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "即将关闭"
+            "state" : "new",
+            "value" : "Shutdown imminent"
           }
         }
       }
@@ -45808,8 +45448,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "暂停时间已到期"
+            "state" : "new",
+            "value" : "Suspend time expired"
           }
         }
       }
@@ -48535,12 +48175,6 @@
             "value" : "The window on the top of the Pod should be colored pink when the cannula is properly inserted into the skin."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fereastra din partea superioară a pompei trebuie să fie colorată în roz atunci când canula a fost introdusă corect în piele."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48670,12 +48304,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "There was a problem communicating with the pod. If this problem persists, tap Discard Pod. You can then activate a new Pod."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A apărut o problemă la comunicarea cu podul. Dacă această problemă persistă, atingeți Renunțați la pod. Apoi puteți activa o nouă pompă."
           }
         },
         "ru" : {
@@ -49340,12 +48968,6 @@
             "value" : "Hora de substituir o seu pod! Seu pod expirará em %1$@"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "E timpul să înlocuiți pompa! Aceasta va expira în %1$@"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49736,12 +49358,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Too many pods found"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Au fost găsite prea multe pompe"
           }
         },
         "ru" : {
@@ -50661,12 +50277,6 @@
             "value" : "Unable to Reach Pod"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu se poate conecta la pompă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50796,12 +50406,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Unable To Reach Pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu se poate conecta la pompă"
           }
         },
         "ru" : {
@@ -51721,12 +51325,6 @@
             "value" : "Unexpected pod change"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbare neașteptată a pompei"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51856,12 +51454,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resposta inesperada do pod"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns neașteptat de la pompă"
           }
         },
         "ru" : {
@@ -54351,12 +53943,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Your Pod is ready for use.\n\nThe default reminder was scheduled for this Pod at setup. You can change the reminder to a more convenient time in Pod Notification Settings."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa este gata de utilizare.\n\nNotificarea implicită a fost programată pentru această pompă la configurare. Puteți schimba notificarea la o oră mai convenabilă în Configurări notificări pompă."
           }
         },
         "ru" : {
