@@ -87,6 +87,12 @@
             "value" : ""
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : ""
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -213,6 +219,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\n\n⚠️ Critical Pod Fault %1$03d (0x%2$02X)"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\n\n⚠️ Critical Pod Fault %1$03d (0x%2$02X)"
@@ -349,6 +361,12 @@
             "value" : "\n  Immediate Bolus In Progress: %1$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\n  Immediate Bolus In Progress: %1$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -475,6 +493,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\n  Insulin State Table Corrupted: %@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\n  Insulin State Table Corrupted: %@"
@@ -611,6 +635,12 @@
             "value" : "\n  Occlusion Type: %1$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\n  Occlusion Type: %1$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -737,6 +767,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\n  Previous Pod Progress: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\n  Previous Pod Progress: %1$@"
@@ -873,6 +909,12 @@
             "value" : "\nAlerts: %1$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nAlerts: %1$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -1004,6 +1046,12 @@
             "value" : "\nBolus Not Delivered: %1$@ U"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nBolus Not Delivered: %1$@ U"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -1043,7 +1091,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "大剂量未注射：%1$@ U"
+            "value" : "追加胰岛素未注射：%1$@ 单位"
           }
         }
       }
@@ -1130,6 +1178,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nDelivery Status: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\nDelivery Status: %1$@"
@@ -1266,6 +1320,12 @@
             "value" : "\nFault Event Info: %1$03d (0x%2$02X),"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nFault Event Info: %1$03d (0x%2$02X),"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -1392,6 +1452,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nFault Time: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\nFault Time: %1$@"
@@ -1528,6 +1594,12 @@
             "value" : "\nLast Programming Seq Num: %1$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nLast Programming Seq Num: %1$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -1654,6 +1726,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nPod Progress: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\nPod Progress: %1$@"
@@ -1790,6 +1868,12 @@
             "value" : "\nPulse Count: %1$d"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nPulse Count: %1$d"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -1916,6 +2000,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nReceiver Low Gain: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\nReceiver Low Gain: %1$@"
@@ -2052,6 +2142,12 @@
             "value" : "\nRef: %@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nRef: %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -2178,6 +2274,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nReservoir Level: %1$@ U"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "\nReservoir Level: %1$@ U"
@@ -2314,6 +2416,12 @@
             "value" : "\nRSSI: %1$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "\nRSSI: %1$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -2445,6 +2553,12 @@
             "value" : " (inactive)"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " (inactive)"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2570,6 +2684,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "—"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "—"
@@ -2706,6 +2826,12 @@
             "value" : "%@ atrás"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ ago"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2832,6 +2958,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ dB"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%@ dB"
@@ -2968,6 +3100,12 @@
             "value" : "%@+ U"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@+ U"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3094,6 +3232,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@U"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%@U"
@@ -3230,6 +3374,12 @@
             "value" : "%1$@ for %2$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ for %2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3356,6 +3506,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ has been unable to communicate with the pod on your body since %2$@.\n\nDo not Discard the Pod without scrolling to read this entire screen.\n\nCommunication was interrupted at a critical time. Information about active insulin / pod temp basal rate is uncertain.\n\nYou can toggle phone Bluetooth off and on or quit and restart the app. (Wait up to 30 seconds for recovery.)\n\nIf you decide to give up because communication cannot be restored, tap the Discard Pod button, follow the steps and start a new pod.\nMonitor your glucose closely for the next 6 hours, as there may or may not be insulin actively working in your body that %3$@ cannot display."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@ has been unable to communicate with the pod on your body since %2$@.\n\nDo not Discard the Pod without scrolling to read this entire screen.\n\nCommunication was interrupted at a critical time. Information about active insulin / pod temp basal rate is uncertain.\n\nYou can toggle phone Bluetooth off and on or quit and restart the app. (Wait up to 30 seconds for recovery.)\n\nIf you decide to give up because communication cannot be restored, tap the Discard Pod button, follow the steps and start a new pod.\nMonitor your glucose closely for the next 6 hours, as there may or may not be insulin actively working in your body that %3$@ cannot display."
@@ -3492,6 +3648,12 @@
             "value" : "%1$@ has recovered communication with the pod on your body.\n\nInsulin delivery records have been updated and should match what has actually been delivered.\n\nYou may continue to use %2$@ normally now."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ has recovered communication with the pod on your body.\n\nInsulin delivery records have been updated and should match what has actually been delivered.\n\nYou may continue to use %2$@ normally now."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -3618,6 +3780,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ insulin or less remaining in Pod. Change Pod soon."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@ insulin or less remaining in Pod. Change Pod soon."
@@ -3754,6 +3922,12 @@
             "value" : "%1$@ minutes"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ minutes"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -3885,6 +4059,12 @@
             "value" : "%1$@ unidades restantes em %2$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ units remaining at %2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4011,6 +4191,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@+ %2$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@+ %2$@"
@@ -4147,6 +4333,12 @@
             "value" : "%g U"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%g U"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4273,6 +4465,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "⚠️ Insulin delivery stopped. Change Pod now."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "⚠️ Insulin delivery stopped. Change Pod now."
@@ -4409,6 +4607,12 @@
             "value" : "1 hour"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1 hour"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4535,6 +4739,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1 hour 30 minutes"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "1 hour 30 minutes"
@@ -4671,6 +4881,12 @@
             "value" : "2 hours"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2 hours"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4797,6 +5013,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "30 minutes"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "30 minutes"
@@ -4933,6 +5155,12 @@
             "value" : "A reminder is configured during Pod setup to notify you in advance of Pod expiration. Set the number of hours advance notice you would like to configure by default when pairing a new Pod."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A reminder is configured during Pod setup to notify you in advance of Pod expiration. Set the number of hours advance notice you would like to configure by default when pairing a new Pod."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -5059,6 +5287,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activation time exceeded"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Activation time exceeded"
@@ -5195,6 +5429,12 @@
             "value" : "Tempo Ativo"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Active Time"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5326,6 +5566,12 @@
             "value" : "Atividade"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activity"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5452,6 +5698,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adjusting Pump Time..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Adjusting Pump Time..."
@@ -5588,6 +5840,12 @@
             "value" : "All Pod alerts use no beeps and confirmation reminder beeps are suppressed. The Pod will only beep for fatal Pod faults and when playing test beeps.\n\n⚠️Warning - If your phone is out of range of the pod while this feature is enabled, you will not receive any in-app notifications; and the pod will not beep to alert you."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Pod alerts use no beeps and confirmation reminder beeps are suppressed. The Pod will only beep for fatal Pod faults and when playing test beeps.\n\n⚠️Warning - If your phone is out of range of the pod while this feature is enabled, you will not receive any in-app notifications; and the pod will not beep to alert you."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -5719,6 +5977,12 @@
             "value" : "Are you sure you want to cancel Pod setup?"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to cancel Pod setup?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5844,6 +6108,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to skip Omnipod Onboarding?"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Are you sure you want to skip Omnipod Onboarding?"
@@ -5980,6 +6250,12 @@
             "value" : "Are you sure you want to stop using Omnipod DASH?"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to stop using Omnipod DASH?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6106,6 +6382,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Attach Pod"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Attach Pod"
@@ -6242,6 +6524,12 @@
             "value" : "Attemping to re-establish communication"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Attemping to re-establish communication"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6368,6 +6656,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto-off"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Auto-off"
@@ -6511,6 +6805,12 @@
             "value" : "Alarme de desligamento automático"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto-off alarm"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6642,6 +6942,12 @@
             "value" : "Back"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6768,6 +7074,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Basal initialized"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Basal initialized"
@@ -6911,6 +7223,12 @@
             "value" : "Abaixo de 50 unidades"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Below 50 units"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7037,6 +7355,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "BLE Firmware Version"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "BLE Firmware Version"
@@ -7173,6 +7497,12 @@
             "value" : "Bluetooth is powered off"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bluetooth is powered off"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7299,6 +7629,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bluetooth is resetting"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Bluetooth is resetting"
@@ -7435,6 +7771,12 @@
             "value" : "Bluetooth is unavailable for an unknown reason."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bluetooth is unavailable for an unknown reason."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7561,6 +7903,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bluetooth is unavailable: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Bluetooth is unavailable: %1$@"
@@ -7697,6 +8045,12 @@
             "value" : "Bluetooth use is unauthorized"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bluetooth use is unauthorized"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7823,6 +8177,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bluetooth use unsupported on this device"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Bluetooth use unsupported on this device"
@@ -7959,6 +8319,12 @@
             "value" : "Bolus"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolus"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8090,6 +8456,12 @@
             "value" : "Bolus em andamento"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolus in progress"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8216,6 +8588,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolus: %1$@U %2$@ %3$@ %4$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Bolus: %1$@U %2$@ %3$@ %4$@"
@@ -8352,6 +8730,12 @@
             "value" : "Aplicando bolus"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolusing"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8481,6 +8865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aplicando bolus com basal temp"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolusing with temp basal"
           }
         },
         "ru" : {
@@ -8614,6 +9004,12 @@
             "value" : "Cancelar"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8745,6 +9141,12 @@
             "value" : "Cancel Manual Basal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel Manual Basal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8871,6 +9273,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula inserted successfully. Continue."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Cannula inserted successfully. Continue."
@@ -9014,6 +9422,12 @@
             "value" : "Inserindo Cânula"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula inserting"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9143,6 +9557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Certo"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Certain"
           }
         },
         "ru" : {
@@ -9278,8 +9698,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Livrarea insulinei se va opri la 8 ore după expirarea pompei sau când nu mai rămâne deloc insulină."
+            "state" : "new",
+            "value" : "Change Pod now. Insulin delivery will stop 8 hours after the Pod has expired or when no more insulin remains."
           }
         },
         "ru" : {
@@ -9415,8 +9835,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Livrarea insulinei se va opri în %1$@ sau când nu mai rămâne insulină."
+            "state" : "new",
+            "value" : "Change Pod now. Insulin delivery will stop in %1$@ or when no more insulin remains."
           }
         },
         "ru" : {
@@ -9552,8 +9972,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Administrarea insulinei se va opri într-o oră."
+            "state" : "new",
+            "value" : "Change Pod now. Insulin delivery will stop in 1 hour."
           }
         },
         "ru" : {
@@ -9689,8 +10109,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați pompa acum. Pompa a fost activă timp de 72 de ore."
+            "state" : "new",
+            "value" : "Change Pod now. Pod has been active for 72 hours."
           }
         },
         "ru" : {
@@ -9819,6 +10239,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check Cannula"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Check Cannula"
@@ -9955,6 +10381,12 @@
             "value" : "Check Pod, apply to site, then confirm pod attachment."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check Pod, apply to site, then confirm pod attachment."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10081,6 +10513,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Checking Insertion"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Checking Insertion"
@@ -10217,6 +10655,12 @@
             "value" : "Checking..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Checking..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10343,6 +10787,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Command error %1$u"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Command error %1$u"
@@ -10479,6 +10929,12 @@
             "value" : "Comms Issue"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Issue"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10605,6 +11061,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovered"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Comms Recovered"
@@ -10741,6 +11203,12 @@
             "value" : "Communication issue: Unacknowledged command pending."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Communication issue: Unacknowledged command pending."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10867,6 +11335,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confidence Reminders"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Confidence Reminders"
@@ -11003,6 +11477,12 @@
             "value" : "Confidence reminders are beeps from the Pod which can be used to acknowledge selected commands when the Pod is not silenced."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confidence reminders are beeps from the Pod which can be used to acknowledge selected commands when the Pod is not silenced."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11129,6 +11609,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When %1$@ automatically adjusts delivery, no confidence reminders are used."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When %1$@ automatically adjusts delivery, no confidence reminders are used."
@@ -11265,6 +11751,12 @@
             "value" : "Confidence reminders will sound when %1$@ automatically adjusts delivery as well as for commands you initiate."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confidence reminders will sound when %1$@ automatically adjusts delivery as well as for commands you initiate."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -11396,6 +11888,12 @@
             "value" : "Ajustes"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Configuration"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11522,6 +12020,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confirm"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Confirm"
@@ -11660,8 +12164,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Confirmați atașarea pompei"
+            "state" : "new",
+            "value" : "Confirm Pod Attachment"
           }
         },
         "ru" : {
@@ -11793,6 +12297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continuar"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Continue"
           }
         },
         "ru" : {
@@ -11928,8 +12438,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-a putut analiza mesajul: %1$@"
+            "state" : "new",
+            "value" : "Could not parse message: %1$@"
           }
         },
         "ru" : {
@@ -12058,6 +12568,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Critical Alerts"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Critical Alerts"
@@ -12194,6 +12710,12 @@
             "value" : "Critical Pod Fault %1$03d"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Critical Pod Fault %1$03d"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -12320,6 +12842,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Crosstalk possible. Please move to a new location"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Crosstalk possible. Please move to a new location"
@@ -12456,6 +12984,12 @@
             "value" : "day"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12582,6 +13116,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "days"
@@ -12718,6 +13258,12 @@
             "value" : "Desativar Pod"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Deactivate Pod"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12844,6 +13390,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Deactivated"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Deactivated"
@@ -12980,6 +13532,12 @@
             "value" : "Deactivating."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Deactivating."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13106,6 +13664,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Deactivating..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Deactivating..."
@@ -13242,6 +13806,12 @@
             "value" : "Delete Omnipod DASH"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Omnipod DASH"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13373,6 +13943,12 @@
             "value" : "Device Name"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Name"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13499,6 +14075,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disabled"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Disabled"
@@ -13637,8 +14219,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Renunțați la pompă"
+            "state" : "new",
+            "value" : "Discard Pod"
           }
         },
         "ru" : {
@@ -13772,6 +14354,12 @@
             "value" : "OK"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13903,6 +14491,12 @@
             "value" : "Reservatório vazio"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Empty reservoir"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14029,6 +14623,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Empty Reservoir"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Empty Reservoir"
@@ -14167,8 +14767,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns gol primit de la pompă"
+            "state" : "new",
+            "value" : "Empty response from pod"
           }
         },
         "ru" : {
@@ -14297,6 +14897,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Empty Value"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Empty Value"
@@ -14433,6 +15039,12 @@
             "value" : "Ativado"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enabled"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14559,6 +15171,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Error"
@@ -14702,6 +15320,12 @@
             "value" : "Evento de erro registrado, desligando"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error event logged, shutting down"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14840,6 +15464,12 @@
             "value" : "Alerta de expiração"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expiration alert"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14966,6 +15596,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expiration reminder"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Expiration reminder"
@@ -15102,6 +15738,12 @@
             "value" : "Lembrete de Expiração"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expiration Reminder"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15228,6 +15870,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expiration Reminder Default"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Expiration Reminder Default"
@@ -15364,6 +16012,12 @@
             "value" : "Expiration reminder time for the current Pod."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expiration reminder time for the current Pod."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -15490,6 +16144,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extended"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Extended"
@@ -15626,6 +16286,12 @@
             "value" : "Extended bolus running"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extended bolus running"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15752,6 +16418,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extended bolus running while suspended"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Extended bolus running while suspended"
@@ -15888,6 +16560,12 @@
             "value" : "Extended bolus running with temp basal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extended bolus running with temp basal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16014,6 +16692,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Cancel Manual Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to Cancel Manual Basal"
@@ -16150,6 +16834,12 @@
             "value" : "Failed to play test beeps."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to play test beeps."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -16276,6 +16966,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to read activation time."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to read activation time."
@@ -16412,6 +17108,12 @@
             "value" : "Failed to read pod status."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to read pod status."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -16538,6 +17240,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to read pulse log plus."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to read pulse log plus."
@@ -16674,6 +17382,12 @@
             "value" : "Failed to read pulse log."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to read pulse log."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -16800,6 +17514,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to read triggered alerts."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to read triggered alerts."
@@ -16936,6 +17656,12 @@
             "value" : "Failed to Resume Insulin Delivery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17062,6 +17788,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Set Pump Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to Set Pump Time"
@@ -17198,6 +17930,12 @@
             "value" : "Failed to Suspend Insulin Delivery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17236,8 +17974,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "暂停胰岛素推注失败"
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
           }
         }
       }
@@ -17324,6 +18062,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to update confidence reminder preference."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to update confidence reminder preference."
@@ -17460,6 +18204,12 @@
             "value" : "Failed to Update Expiration Reminder"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Update Expiration Reminder"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17586,6 +18336,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Update Low Reservoir Reminder"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to Update Low Reservoir Reminder"
@@ -17722,6 +18478,12 @@
             "value" : "Failed to update silence pod preference."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to update silence pod preference."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17848,6 +18610,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fault event occurred"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Fault event occurred"
@@ -17986,8 +18754,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Umpleți o pompă nou cu insulină U-100  (nu înlăturați capacul albastru al acului de pe pompă)."
+            "state" : "new",
+            "value" : "Fill a new pod with U-100 Insulin (leave blue Pod needle cap on)."
           }
         },
         "ru" : {
@@ -18116,6 +18884,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Finish deactivation"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Finish deactivation"
@@ -18252,6 +19026,12 @@
             "value" : "Finish Deactivation"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Finish Deactivation"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18378,6 +19158,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Finish Setup"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Finish Setup"
@@ -18521,6 +19307,12 @@
             "value" : "Concluir configuração"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Finish setup "
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18647,6 +19439,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Finish setup reminder"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Finish setup reminder"
@@ -18783,6 +19581,12 @@
             "value" : "Firmware Version"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Firmware Version"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18914,6 +19718,12 @@
             "value" : "Mais de %1$@ unidades restantes em %2$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Greater than %1$@ units remaining at %2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19040,6 +19850,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "hour"
@@ -19176,6 +19992,12 @@
             "value" : "horas"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hours"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19302,6 +20124,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you cancel Pod setup, the current Pod will be deactivated and will be unusable."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "If you cancel Pod setup, the current Pod will be deactivated and will be unusable."
@@ -19438,6 +20266,12 @@
             "value" : "Incorrect Packet Exception: %1$@ (location=%2$d)"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Incorrect Packet Exception: %1$@ (location=%2$d)"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19564,6 +20398,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Incorrect Response"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Incorrect Response"
@@ -19700,6 +20540,12 @@
             "value" : "Inicializado"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Initialized"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19831,6 +20677,12 @@
             "value" : "Inserir Cânula"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insert Cannula"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19957,6 +20809,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inserted"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Inserted"
@@ -20093,6 +20951,12 @@
             "value" : "Inserting cannula"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inserting cannula"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20219,6 +21083,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inserting. Please wait."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Inserting. Please wait."
@@ -20355,6 +21225,12 @@
             "value" : "Inserting..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inserting..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20486,6 +21362,12 @@
             "value" : "Insulina\nSuspenso"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin\nSuspended"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20612,6 +21494,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Delivery"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Insulin Delivery"
@@ -20748,6 +21636,12 @@
             "value" : "Insulin delivery stopped. Change Pod now."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin delivery stopped. Change Pod now."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20874,6 +21768,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin delivery will be stopped until you resume manually. Select when you want to be reminded to resume delivery?"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Insulin delivery will be stopped until you resume manually. Select when you want to be reminded to resume delivery?"
@@ -21010,6 +21910,12 @@
             "value" : "Insulin Remaining"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Remaining"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21136,6 +22042,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Suspended"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Insulin Suspended"
@@ -21272,6 +22184,12 @@
             "value" : "Tipo de Insulina"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Type"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21398,6 +22316,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin type not configured"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Insulin type not configured"
@@ -21536,8 +22460,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Defecțiune internă a pompei %1$03d"
+            "state" : "new",
+            "value" : "Internal pod fault %1$03d"
           }
         },
         "ru" : {
@@ -21673,8 +22597,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cod de eroare intern al pompei %1$03d\n%2$@ \n Ref: %3$@ \n"
+            "state" : "new",
+            "value" : "Internal Pod fault code %1$03d\n%2$@\nRef: %3$@\n"
           }
         },
         "ru" : {
@@ -21808,6 +22732,12 @@
             "value" : "BolusInterrompido: %1$@ U (%2$@ U agendado) %3$@ %4$@ %5$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21934,6 +22864,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid address 0x%x. Expected 0x%x"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invalid address 0x%x. Expected 0x%x"
@@ -22070,6 +23006,12 @@
             "value" : "Invalid address: (%1$@)"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid address: (%1$@)"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22196,6 +23138,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid CRC"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invalid CRC"
@@ -22332,6 +23280,12 @@
             "value" : "Invalid LTK Key: %1$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid LTK Key: %1$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22458,6 +23412,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid Setting"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Invalid Setting"
@@ -22594,6 +23554,12 @@
             "value" : "Is the cannula inserted properly?"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Is the cannula inserted properly?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22720,6 +23686,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Keep Waiting"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Keep Waiting"
@@ -22856,6 +23828,12 @@
             "value" : "Last Status"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Status"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22982,6 +23960,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Listen for 2 beeps."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Listen for 2 beeps."
@@ -23118,6 +24102,12 @@
             "value" : "Lot Number"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lot Number"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23249,6 +24239,12 @@
             "value" : "Low reservoir"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Low reservoir"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23375,6 +24371,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Low Reservoir"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Low Reservoir"
@@ -23518,6 +24520,12 @@
             "value" : "Alarme de baixo reservatório"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Low reservoir advisory alarm"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23644,6 +24652,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Low Reservoir Reminder"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Low Reservoir Reminder"
@@ -23782,8 +24796,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că iPhone-ul este în apropierea pompei active"
+            "state" : "new",
+            "value" : "Make sure iPhone is nearby the active pod"
           }
         },
         "ru" : {
@@ -23919,8 +24933,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că telefonul și pompa sunt aproape unul de celălalt. Dacă problemele de comunicare persistă, mutați-vă într-o zonă nouă."
+            "state" : "new",
+            "value" : "Make sure your phone and pod are close to each other. If communication issues persist, move to a new area."
           }
         },
         "ru" : {
@@ -24056,8 +25070,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că pompa este umplută și în apropiere."
+            "state" : "new",
+            "value" : "Make sure your pod is filled and nearby."
           }
         },
         "ru" : {
@@ -24193,8 +25207,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că pompa dumneavoastră este în apropiere și încercați din nou."
+            "state" : "new",
+            "value" : "Make sure your pod is nearby and try again."
           }
         },
         "ru" : {
@@ -24335,6 +25349,12 @@
             "value" : "Verifique se o seu RileyLink está próximo e ligado"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make sure your RileyLink is nearby and powered on"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24461,6 +25481,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Manual Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Manual Basal"
@@ -24597,6 +25623,12 @@
             "value" : "Memory initialized"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Memory initialized"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24723,6 +25755,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Message IO Exception: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Message IO Exception: %1$@"
@@ -24859,6 +25897,12 @@
             "value" : "minute"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "minute"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24990,6 +26034,12 @@
             "value" : "minutos"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "minutes"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25116,6 +26166,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Missing Config"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Missing Config"
@@ -25254,8 +26310,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mutați-vă într-o zonă nouă, departe de orice alte pompe și încercați din nou."
+            "state" : "new",
+            "value" : "Move to a new area away from any other pods and try again."
           }
         },
         "ru" : {
@@ -25384,6 +26440,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NA"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "NA"
@@ -25520,6 +26582,12 @@
             "value" : "Nack"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nack"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25646,6 +26714,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Next"
@@ -25782,6 +26856,12 @@
             "value" : "No"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25908,6 +26988,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No\nDelivery"
@@ -26044,6 +27130,12 @@
             "value" : "Sem alertas"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No alerts"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26170,6 +27262,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No confidence reminders are used."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No confidence reminders are used."
@@ -26306,6 +27404,12 @@
             "value" : "No faults"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No faults"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26432,6 +27536,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Insulin"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No Insulin"
@@ -26570,8 +27680,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niciuo pompă"
+            "state" : "new",
+            "value" : "No Pod"
           }
         },
         "ru" : {
@@ -26707,8 +27817,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nicio pompă asociată"
+            "state" : "new",
+            "value" : "No pod paired"
           }
         },
         "ru" : {
@@ -26844,8 +27954,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-au găsit pompe"
+            "state" : "new",
+            "value" : "No pods found"
           }
         },
         "ru" : {
@@ -26974,6 +28084,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Reminder"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No Reminder"
@@ -27112,8 +28228,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-a primit răspuns de la pompă"
+            "state" : "new",
+            "value" : "No response from pod"
           }
         },
         "ru" : {
@@ -27254,6 +28370,12 @@
             "value" : "Nenhum RileyLink disponível"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No RileyLink available"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27387,8 +28509,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu, continuați cu pompa"
+            "state" : "new",
+            "value" : "No, Continue With Pod"
           }
         },
         "ru" : {
@@ -27517,6 +28639,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No, Keep Pump As Is"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No, Keep Pump As Is"
@@ -27653,6 +28781,12 @@
             "value" : "Normal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Normal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27779,6 +28913,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Normal operation mode where audible Pod beeps are used for all Pod alerts and when confidence reminders are enabled."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Normal operation mode where audible Pod beeps are used for all Pod alerts and when confidence reminders are enabled."
@@ -27915,6 +29055,12 @@
             "value" : "Not enough data"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not enough data"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27953,8 +29099,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "没有足够数据"
+            "state" : "new",
+            "value" : "Not enough data"
           }
         }
       }
@@ -28041,6 +29187,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Not used"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Not used"
@@ -28177,6 +29329,12 @@
             "value" : "Notification Settings"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notification Settings"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28302,6 +29460,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Numbers"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Numbers"
@@ -28438,6 +29602,12 @@
             "value" : "Oclusão detectada"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Occlusion detected"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28564,6 +29734,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Occlusion Detected"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Occlusion Detected"
@@ -28700,6 +29876,12 @@
             "value" : "Ok"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ok"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28826,6 +30008,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "OK"
@@ -28969,6 +30157,12 @@
             "value" : "Omnipod"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Omnipod"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29095,6 +30289,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Omnipod DASH"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Omnipod DASH"
@@ -29231,6 +30431,12 @@
             "value" : "Omnipod Reminders"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Omnipod Reminders"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29357,6 +30563,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "oneNotUsed"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "oneNotUsed"
@@ -29495,8 +30707,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asociază o pompă"
+            "state" : "new",
+            "value" : "Pair Pod"
           }
         },
         "ru" : {
@@ -29632,8 +30844,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asociază o pompă"
+            "state" : "new",
+            "value" : "Pair pod."
           }
         },
         "ru" : {
@@ -29762,6 +30974,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Paired"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Paired"
@@ -29898,6 +31116,12 @@
             "value" : "Pairing completed"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pairing completed"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29936,8 +31160,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "配对完成"
+            "state" : "new",
+            "value" : "Pairing completed"
           }
         }
       }
@@ -30024,6 +31248,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pairing Exception: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pairing Exception: %1$@"
@@ -30160,6 +31390,12 @@
             "value" : "Pairing."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pairing."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30286,6 +31522,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pairing..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pairing..."
@@ -30422,6 +31664,12 @@
             "value" : "Parsing Error: %1$@ in (%2$@)"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Parsing Error: %1$@ in (%2$@)"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30553,6 +31801,12 @@
             "value" : "Payload crc32 %1$@ does not match computed crc32 %2$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Payload crc32 %1$@ does not match computed crc32 %2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30678,6 +31932,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Percent = %lf"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Percent = %lf"
@@ -30814,6 +32074,12 @@
             "value" : "Peripheral Not Ready"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Peripheral Not Ready"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30943,6 +32209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tocar bipes de teste"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play Test Beeps"
           }
         },
         "ru" : {
@@ -31076,6 +32348,12 @@
             "value" : "Play test beeps command sent successfully.\n\nIf you did not hear any beeps from your Pod, the piezo speaker in your Pod may be broken or disabled."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Play test beeps command sent successfully.\n\nIf you did not hear any beeps from your Pod, the piezo speaker in your Pod may be broken or disabled."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -31202,6 +32480,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Playing Test Beeps..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Playing Test Beeps..."
@@ -31340,8 +32624,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să aduceți doar pompa inițială în rază de acțiune sau dezactivați pompa inițială"
+            "state" : "new",
+            "value" : "Please bring only original pod in range or deactivate original pod"
           }
         },
         "ru" : {
@@ -31484,8 +32768,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apropiați pompa de RileyLink și încercați din nou"
+            "state" : "new",
+            "value" : "Please bring your pod closer to the RileyLink and try again"
           }
         },
         "ru" : {
@@ -31621,8 +32905,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să confirmați că pompa este bine fixată de corpul dumneavoastră. \n\nCanula poate fi introdusă doar o singură dată cu fiecare pompă. Atingeți „Confirmați” când pompa este fixată."
+            "state" : "new",
+            "value" : "Please confirm that the Pod is securely attached to your body.\n\nThe cannula can be inserted only once with each Pod. Tap “Confirm” when Pod is attached."
           }
         },
         "ru" : {
@@ -31758,8 +33042,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să dezactivați pompa. Când dezactivarea este completă, puteți asocia o nouă pompă."
+            "state" : "new",
+            "value" : "Please deactivate the pod. When deactivation is complete, you may pair a new pod."
           }
         },
         "ru" : {
@@ -31895,8 +33179,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să dezactivați pompa. Când dezactivarea este completă, îl puteți elimina și asociați o nouă pompă."
+            "state" : "new",
+            "value" : "Please deactivate the pod. When deactivation is complete, you may remove it and pair a new pod."
           }
         },
         "ru" : {
@@ -32025,6 +33309,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please enable bluetooth permissions for this app in system settings"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please enable bluetooth permissions for this app in system settings"
@@ -32163,8 +33453,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să terminați asocierea pompei."
+            "state" : "new",
+            "value" : "Please finish pairing your pod."
           }
         },
         "ru" : {
@@ -32300,8 +33590,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asociați o pompă nouă"
+            "state" : "new",
+            "value" : "Please pair a new pod"
           }
         },
         "ru" : {
@@ -32437,8 +33727,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să repoziționați iPhone-ul mai departe de pompă"
+            "state" : "new",
+            "value" : "Please reposition iPhone further from the pod"
           }
         },
         "ru" : {
@@ -32572,6 +33862,12 @@
             "value" : "Please reposition iPhone relative to the pod"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please reposition iPhone relative to the pod"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32698,6 +33994,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please use a different device with bluetooth capabilities"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Please use a different device with bluetooth capabilities"
@@ -32836,8 +34138,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă activată"
+            "state" : "new",
+            "value" : "Pod Activated"
           }
         },
         "ru" : {
@@ -32966,6 +34268,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pod Active: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Active: %1$@"
@@ -33104,8 +34412,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă deja asociată"
+            "state" : "new",
+            "value" : "Pod already paired"
           }
         },
         "ru" : {
@@ -33248,8 +34556,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă deja pregătită"
+            "state" : "new",
+            "value" : "Pod already primed"
           }
         },
         "ru" : {
@@ -33385,8 +34693,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a fost dezactivată cu succes."
+            "state" : "new",
+            "value" : "Pod deactivated successfully. Continue."
           }
         },
         "ru" : {
@@ -33520,6 +34828,12 @@
             "value" : "Pod Details"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pod Details"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33646,6 +34960,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pod Diagnostics"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Diagnostics"
@@ -33784,8 +35104,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare pompă"
+            "state" : "new",
+            "value" : "Pod Error"
           }
         },
         "ru" : {
@@ -33928,8 +35248,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alarmă expirare pompă"
+            "state" : "new",
+            "value" : "Pod expiration advisory alarm"
           }
         },
         "ru" : {
@@ -34072,8 +35392,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notificare expirare pompă"
+            "state" : "new",
+            "value" : "Pod Expiration Notice"
           }
         },
         "ru" : {
@@ -34209,8 +35529,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Memento pentru expirarea pompei"
+            "state" : "new",
+            "value" : "Pod Expiration Reminder"
           }
         },
         "ru" : {
@@ -34346,8 +35666,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a expirat."
+            "state" : "new",
+            "value" : "Pod expired"
           }
         },
         "ru" : {
@@ -34483,8 +35803,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompă expirată"
+            "state" : "new",
+            "value" : "Pod Expired"
           }
         },
         "ru" : {
@@ -34620,8 +35940,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa expiră"
+            "state" : "new",
+            "value" : "Pod Expires"
           }
         },
         "ru" : {
@@ -34757,8 +36077,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa expiră în"
+            "state" : "new",
+            "value" : "Pod expires in"
           }
         },
         "ru" : {
@@ -34894,8 +36214,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa expiră în %1$@."
+            "state" : "new",
+            "value" : "Pod expires in %1$@."
           }
         },
         "ru" : {
@@ -35024,6 +36344,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pod Fault %1$03d"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod Fault %1$03d"
@@ -35162,8 +36488,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Detalii despre eroarea pompei"
+            "state" : "new",
+            "value" : "Pod Fault Details"
           }
         },
         "ru" : {
@@ -35299,8 +36625,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Defecțiune Pompă: %1$@"
+            "state" : "new",
+            "value" : "Pod Fault: %1$@"
           }
         },
         "ru" : {
@@ -35436,8 +36762,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa nu este pregătită pentru introducerea canulei."
+            "state" : "new",
+            "value" : "Pod is not in a state ready for cannula insertion."
           }
         },
         "ru" : {
@@ -35580,8 +36906,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa nu este pregătită pentru amorsare."
+            "state" : "new",
+            "value" : "Pod is not in a state ready for priming."
           }
         },
         "ru" : {
@@ -35717,8 +37043,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa este suspendată"
+            "state" : "new",
+            "value" : "Pod is suspended"
           }
         },
         "ru" : {
@@ -35854,8 +37180,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa nu este conectată"
+            "state" : "new",
+            "value" : "Pod not connected"
           }
         },
         "ru" : {
@@ -35991,8 +37317,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocaj pompă"
+            "state" : "new",
+            "value" : "Pod Occlusion"
           }
         },
         "ru" : {
@@ -36128,8 +37454,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a fost asociată cu succes. Continuați."
+            "state" : "new",
+            "value" : "Pod paired successfully. Continue."
           }
         },
         "ru" : {
@@ -36265,8 +37591,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asocierea pompei este nefinalizată."
+            "state" : "new",
+            "value" : "Pod Pairing Incomplete"
           }
         },
         "ru" : {
@@ -36402,8 +37728,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a trimis o confirmare în loc de răspuns"
+            "state" : "new",
+            "value" : "Pod sent ack instead of response"
           }
         },
         "ru" : {
@@ -36539,8 +37865,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurare pompei"
+            "state" : "new",
+            "value" : "Pod Setup"
           }
         },
         "ru" : {
@@ -36669,6 +37995,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pod setup is not complete"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pod setup is not complete"
@@ -36814,8 +38146,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Intervalul de timp în care se poate seta pompa a expirat"
+            "state" : "new",
+            "value" : "Pod setup window expired"
           }
         },
         "ru" : {
@@ -36951,8 +38283,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Memento pentru pompa suspendată"
+            "state" : "new",
+            "value" : "Pod suspended reminder"
           }
         },
         "ru" : {
@@ -36993,8 +38325,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod 暂停提醒"
+            "state" : "new",
+            "value" : "Pod suspended reminder"
           }
         }
       }
@@ -37081,6 +38413,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Poor signal strength"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Poor signal strength"
@@ -37217,6 +38555,12 @@
             "value" : "Possible Bluetooth issue"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Possible Bluetooth issue"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -37343,6 +38687,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Prepare site."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Prepare site."
@@ -37481,8 +38831,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa anterioară"
+            "state" : "new",
+            "value" : "Previous Pod"
           }
         },
         "ru" : {
@@ -37611,6 +38961,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Previous Pod Details"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Previous Pod Details"
@@ -37747,6 +39103,12 @@
             "value" : "Preparando"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Priming"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37878,6 +39240,12 @@
             "value" : "Priming completed"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Priming completed"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37916,8 +39284,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "灌注完成"
+            "state" : "new",
+            "value" : "Priming completed"
           }
         }
       }
@@ -38004,6 +39372,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Priming. Please wait."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Priming. Please wait."
@@ -38140,6 +39514,12 @@
             "value" : "Priming..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Priming..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38266,6 +39646,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Manager Details"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pump Manager Details"
@@ -38402,6 +39788,12 @@
             "value" : "Pump Time"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Time"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38533,6 +39925,12 @@
             "value" : "Taxa"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rate"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38659,6 +40057,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read Activation Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Read Activation Time"
@@ -38795,6 +40199,12 @@
             "value" : "Read Pod Status"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read Pod Status"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38926,6 +40336,12 @@
             "value" : "Ler Log do Pulse"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read Pulse Log"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39052,6 +40468,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read Pulse Log Plus"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Read Pulse Log Plus"
@@ -39188,6 +40610,12 @@
             "value" : "Read Triggered Alerts"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Read Triggered Alerts"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39314,6 +40742,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading Activation Time..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Reading Activation Time..."
@@ -39450,6 +40884,12 @@
             "value" : "Reading Pod Status..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading Pod Status..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -39576,6 +41016,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading Pulse Log Plus..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Reading Pulse Log Plus..."
@@ -39712,6 +41158,12 @@
             "value" : "Reading Pulse Log..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading Pulse Log..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -39838,6 +41290,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading Triggered Alerts..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Reading Triggered Alerts..."
@@ -39981,6 +41439,12 @@
             "value" : "Pronto para programação basal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ready for basal programming"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40119,6 +41583,12 @@
             "value" : "Pronto para inserir a cânula"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ready to insert cannula"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40245,6 +41715,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ref: "
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Ref: "
@@ -40381,6 +41857,12 @@
             "value" : "Refresh Pump Manager Details"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Refresh Pump Manager Details"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40510,6 +41992,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restante"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remaining"
           }
         },
         "ru" : {
@@ -40643,6 +42131,12 @@
             "value" : "Reminder initialized"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reminder initialized"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40681,8 +42175,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "提醒功能已启动"
+            "state" : "new",
+            "value" : "Reminder initialized"
           }
         }
       }
@@ -40769,6 +42263,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove blue Pod needle cap and check cannula. Then remove paper backing."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Remove blue Pod needle cap and check cannula. Then remove paper backing."
@@ -40907,8 +42407,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Înlăturați pompa de pe corp"
+            "state" : "new",
+            "value" : "Remove Pod from Body"
           }
         },
         "ru" : {
@@ -41037,6 +42537,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove Pump"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Remove Pump"
@@ -41175,8 +42681,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Înlocuiți pompa"
+            "state" : "new",
+            "value" : "Replace Pod"
           }
         },
         "ru" : {
@@ -41305,6 +42811,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Resume"
@@ -41441,6 +42953,12 @@
             "value" : "Resume delivery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume delivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41567,6 +43085,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume Insulin"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Resume Insulin"
@@ -41703,6 +43227,12 @@
             "value" : "Resume Insulin Delivery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume Insulin Delivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41834,6 +43364,12 @@
             "value" : "Retomar: %1$@ %2$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume: %1$@ %2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41960,6 +43496,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resuming insulin delivery..."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Resuming insulin delivery..."
@@ -42096,6 +43638,12 @@
             "value" : "Retrieving Pump Manager Details..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Retrieving Pump Manager Details..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42222,6 +43770,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Retry"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Retry"
@@ -42358,6 +43912,12 @@
             "value" : "Salvar"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42487,6 +44047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Salvando..."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Saving..."
           }
         },
         "ru" : {
@@ -42620,6 +44186,12 @@
             "value" : "Scheduled basal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled basal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42658,8 +44230,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "计划基础率"
+            "state" : "new",
+            "value" : "Scheduled basal"
           }
         }
       }
@@ -42746,6 +44318,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Scheduled Basal"
@@ -42882,6 +44460,12 @@
             "value" : "Scheduled Reminder"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled Reminder"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43008,6 +44592,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the type of insulin that you will be using in this pod."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select the type of insulin that you will be using in this pod."
@@ -43144,6 +44734,12 @@
             "value" : "Sequence Number"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sequence Number"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43270,6 +44866,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set Temporary Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Set Temporary Basal"
@@ -43406,6 +45008,12 @@
             "value" : "Set Temporary Basal Rate"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set Temporary Basal Rate"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43532,6 +45140,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Setup Complete"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Setup Complete"
@@ -43668,6 +45282,12 @@
             "value" : "Shutdown imminent"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shutdown imminent"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43706,8 +45326,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "即将关闭"
+            "state" : "new",
+            "value" : "Shutdown imminent"
           }
         }
       }
@@ -43804,6 +45424,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alarme de desligamento iminente"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shutdown imminent alarm"
           }
         },
         "ru" : {
@@ -43932,6 +45558,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Signal Loss"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Signal Loss"
@@ -44068,6 +45700,12 @@
             "value" : "Signal strength too high"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Signal strength too high"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44194,6 +45832,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Silence Pod"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Silence Pod"
@@ -44330,6 +45974,12 @@
             "value" : "Silence Pod mode suppresses all Pod alert and confirmation reminder beeping."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Silence Pod mode suppresses all Pod alert and confirmation reminder beeping."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44461,6 +46111,12 @@
             "value" : "Silenced"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Silenced"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44586,6 +46242,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Skip Omnipod Onboarding?"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Skip Omnipod Onboarding?"
@@ -44722,6 +46384,12 @@
             "value" : "Slide Button to insert Cannula"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Slide Button to insert Cannula"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -44848,6 +46516,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Slide the switch below to start cannula insertion."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Slide the switch below to start cannula insertion."
@@ -44984,6 +46658,12 @@
             "value" : "Slide to Deactivate Pod"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Slide to Deactivate Pod"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45110,6 +46790,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Slide to Insert Cannula"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Slide to Insert Cannula"
@@ -45246,6 +46932,12 @@
             "value" : "Suspend"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45377,6 +47069,12 @@
             "value" : "Suspender Entrega"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend Delivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45503,6 +47201,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend In Progress Reminder"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Suspend In Progress Reminder"
@@ -45639,6 +47343,12 @@
             "value" : "Suspend Insulin Delivery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend Insulin Delivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45770,6 +47480,12 @@
             "value" : "Suspend time expired"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend time expired"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45808,8 +47524,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "暂停时间已到期"
+            "state" : "new",
+            "value" : "Suspend time expired"
           }
         }
       }
@@ -45899,6 +47615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suspender: %1$@ %2$@"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend: %1$@ %2$@"
           }
         },
         "ru" : {
@@ -46032,6 +47754,12 @@
             "value" : "Suspenso"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46158,6 +47886,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Suspended At"
@@ -46294,6 +48028,12 @@
             "value" : "Suspending insulin delivery..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspending insulin delivery..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46420,6 +48160,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspension time is up. Open the app and resume."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Suspension time is up. Open the app and resume."
@@ -46556,6 +48302,12 @@
             "value" : "Switch to other insulin delivery device"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Switch to other insulin delivery device"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46682,6 +48434,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sync to Current Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Sync to Current Time"
@@ -46825,6 +48583,12 @@
             "value" : "Enchimento do tanque concluído"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tank fill completed"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46963,6 +48727,12 @@
             "value" : "Alimentação do tanque ativada"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tank power activated"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47089,6 +48859,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temp Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Temp Basal"
@@ -47225,6 +49001,12 @@
             "value" : "Basal temporária em andamento"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temp basal in progress"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47354,6 +49136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Executando basal temporária"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temp basal running"
           }
         },
         "ru" : {
@@ -47487,6 +49275,12 @@
             "value" : "BasalTemp: %1$@ U/hora %2$@ %3$@ %4$@ U %5$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47613,6 +49407,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Temporary Basal"
@@ -47749,6 +49549,12 @@
             "value" : "Temporary Basal Failed"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary Basal Failed"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47875,6 +49681,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The insulin suspension period has ended.\n\nYou can resume delivery from the banner on the home screen or from your pump settings screen. You will be reminded again in 15 minutes."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "The insulin suspension period has ended.\n\nYou can resume delivery from the banner on the home screen or from your pump settings screen. You will be reminded again in 15 minutes."
@@ -48011,6 +49823,12 @@
             "value" : "The reminders above will not sound on your device when it is in Silent or Do Not Disturb mode. There are other critical Pod alerts that will sound on your device even when set to Silent or Do Not Disturb mode.\n\nThe Pod will also use audible beeps for all Pod reminders and alerts except when the Pod is Silenced."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The reminders above will not sound on your device when it is in Silent or Do Not Disturb mode. There are other critical Pod alerts that will sound on your device even when set to Silent or Do Not Disturb mode.\n\nThe Pod will also use audible beeps for all Pod reminders and alerts except when the Pod is Silenced."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -48137,6 +49955,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The time on your pump is different from the current time. Do you want to update the time on your pump to the current time?"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "The time on your pump is different from the current time. Do you want to update the time on your pump to the current time?"
@@ -48273,6 +50097,12 @@
             "value" : "The time on your pump is different from the current time. You can review the pump time and and sync to current time in settings."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The time on your pump is different from the current time. You can review the pump time and and sync to current time in settings."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48399,6 +50229,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The time on your pump is different from the current time. Your pump’s time controls your scheduled therapy settings. Scroll down to Pump Time row to review the time difference and configure your pump."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "The time on your pump is different from the current time. Your pump’s time controls your scheduled therapy settings. Scroll down to Pump Time row to review the time difference and configure your pump."
@@ -48537,8 +50373,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fereastra din partea superioară a pompei trebuie să fie colorată în roz atunci când canula a fost introdusă corect în piele."
+            "state" : "new",
+            "value" : "The window on the top of the Pod should be colored pink when the cannula is properly inserted into the skin."
           }
         },
         "ru" : {
@@ -48674,8 +50510,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "A apărut o problemă la comunicarea cu podul. Dacă această problemă persistă, atingeți Renunțați la pod. Apoi puteți activa o nouă pompă."
+            "state" : "new",
+            "value" : "There was a problem communicating with the pod. If this problem persists, tap Discard Pod. You can then activate a new Pod."
           }
         },
         "ru" : {
@@ -48804,6 +50640,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This PumpManager has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please set a new maximum basal rate."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "This PumpManager has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please set a new maximum basal rate."
@@ -48940,6 +50782,12 @@
             "value" : "threeNotUsed"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "threeNotUsed"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -49071,6 +50919,12 @@
             "value" : "Hora"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49197,6 +51051,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time Change Detected"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Time Change Detected"
@@ -49342,8 +51202,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "E timpul să înlocuiți pompa! Aceasta va expira în %1$@"
+            "state" : "new",
+            "value" : "Time to replace your pod! Your pod will expire in %1$@"
           }
         },
         "ru" : {
@@ -49477,6 +51337,12 @@
             "value" : "Timeout"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Timeout"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49602,6 +51468,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toggle sign"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Toggle sign"
@@ -49740,8 +51612,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Au fost găsite prea multe pompe"
+            "state" : "new",
+            "value" : "Too many pods found"
           }
         },
         "ru" : {
@@ -49870,6 +51742,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total Delivery"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Total Delivery"
@@ -50006,6 +51884,12 @@
             "value" : "Try adjusting pod position or toggle Bluetooth off and then on in iPhone Settings."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Try adjusting pod position or toggle Bluetooth off and then on in iPhone Settings."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -50132,6 +52016,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Try again"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Try again"
@@ -50268,6 +52158,12 @@
             "value" : "Turn bluetooth on"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turn bluetooth on"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50399,6 +52295,12 @@
             "value" : "twoNotUsed"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "twoNotUsed"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -50525,6 +52427,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "U/hr"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "U/hr"
@@ -50663,8 +52571,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu se poate conecta la pompă"
+            "state" : "new",
+            "value" : "Unable to Reach Pod"
           }
         },
         "ru" : {
@@ -50800,8 +52708,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu se poate conecta la pompă"
+            "state" : "new",
+            "value" : "Unable To Reach Pod"
           }
         },
         "ru" : {
@@ -50930,6 +52838,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to set a temporary basal rate: %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unable to set a temporary basal rate: %1$@"
@@ -51066,6 +52980,12 @@
             "value" : "Unable to set a temporary basal rate: %1$@\n\n%2$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to set a temporary basal rate: %1$@\n\n%2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51197,6 +53117,12 @@
             "value" : "Incerto"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Uncertain"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51323,6 +53249,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unexpected Alert"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unexpected Alert"
@@ -51459,6 +53391,12 @@
             "value" : "Unexpected message sequence number"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unexpected message sequence number"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51585,6 +53523,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unexpected Pod Alert #%1@!"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unexpected Pod Alert #%1@!"
@@ -51723,8 +53667,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbare neașteptată a pompei"
+            "state" : "new",
+            "value" : "Unexpected pod change"
           }
         },
         "ru" : {
@@ -51860,8 +53804,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns neașteptat de la pompă"
+            "state" : "new",
+            "value" : "Unexpected response from pod"
           }
         },
         "ru" : {
@@ -51990,6 +53934,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unfinished Activation"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unfinished Activation"
@@ -52126,6 +54076,12 @@
             "value" : "Unfinished deactivation"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unfinished deactivation"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52252,6 +54208,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unknown Characteristic"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unknown Characteristic"
@@ -52388,6 +54350,12 @@
             "value" : "Falha desconhecida do pod %1$03d"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unknown pod fault %1$03d"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52514,6 +54482,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unknown Value (%1$@) for type %2$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unknown Value (%1$@) for type %2$@"
@@ -52650,6 +54624,12 @@
             "value" : "Validation failed: %1$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Validation failed: %1$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52776,6 +54756,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Wait for existing bolus to finish, or cancel bolus"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Wait for existing bolus to finish, or cancel bolus"
@@ -52912,6 +54898,12 @@
             "value" : "Wait for existing temp basal to finish, or suspend to cancel"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Wait for existing temp basal to finish, or suspend to cancel"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53038,6 +55030,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Wait until insertion is completed."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Wait until insertion is completed."
@@ -53174,6 +55172,12 @@
             "value" : "Aguardando lembrete de emparelhamento"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Waiting for pairing reminder"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53300,6 +55304,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Yes"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Yes"
@@ -53436,6 +55446,12 @@
             "value" : "Yes, Deactivate Pod"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Yes, Deactivate Pod"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53562,6 +55578,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Yes, Sync to Current Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Yes, Sync to Current Time"
@@ -53698,6 +55720,12 @@
             "value" : "You will be notified in advance of Pod expiration.\n\nScroll to set the number of hours advance notice you would like to have."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You will be notified in advance of Pod expiration.\n\nScroll to set the number of hours advance notice you would like to have."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -53824,6 +55852,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You will be notified when the amount of insulin in the Pod reaches a selected level.\n\nScroll to set the number of units (1 to 50) at which you would like to be reminded."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "You will be notified when the amount of insulin in the Pod reaches a selected level.\n\nScroll to set the number of units (1 to 50) at which you would like to be reminded."
@@ -53960,6 +55994,12 @@
             "value" : "You will be notified when the amount of insulin in the Pod reaches this level."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You will be notified when the amount of insulin in the Pod reaches this level."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -54091,6 +56131,12 @@
             "value" : "You will now begin the process of configuring your reminders, filling your Pod with insulin, pairing to your device and placing it on your body."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You will now begin the process of configuring your reminders, filling your Pod with insulin, pairing to your device and placing it on your body."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -54217,6 +56263,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your insulin delivery will not be automatically adjusted until the temporary basal rate finishes or is canceled."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your insulin delivery will not be automatically adjusted until the temporary basal rate finishes or is canceled."
@@ -54355,8 +56407,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa este gata de utilizare.\n\nNotificarea implicită a fost programată pentru această pompă la configurare. Puteți schimba notificarea la o oră mai convenabilă în Configurări notificări pompă."
+            "state" : "new",
+            "value" : "Your Pod is ready for use.\n\nThe default reminder was scheduled for this Pod at setup. You can change the reminder to a more convenient time in Pod Notification Settings."
           }
         },
         "ru" : {
@@ -54485,6 +56537,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Pod may still be delivering Insulin.\nRemove it from your body, then tap “Continue.“"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your Pod may still be delivering Insulin.\nRemove it from your body, then tap “Continue.“"
