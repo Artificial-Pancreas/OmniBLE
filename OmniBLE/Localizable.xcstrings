@@ -7118,7 +7118,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều basal được khởi tạo"
+            "value" : "Liều nền được khởi tạo"
           }
         },
         "zh-Hans" : {
@@ -8906,7 +8906,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang thực hiện liều basal tạm thời"
+            "value" : "Đang thực hiện liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -9180,7 +9180,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hủy bỏ liều basal thủ công"
+            "value" : "Hủy bỏ liều nền thủ công"
           }
         },
         "zh-Hans" : {
@@ -16736,7 +16736,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể hủy liều basal thủ công"
+            "value" : "Không thể hủy liều nền thủ công"
           }
         },
         "zh-Hans" : {
@@ -25525,7 +25525,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều Basal thủ công"
+            "value" : "Liều nền thủ công"
           }
         },
         "zh-Hans" : {
@@ -41478,7 +41478,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sẵn sàng cho việc tính toán liều basal"
+            "value" : "Sẵn sàng cho việc tính toán liều nền"
           }
         },
         "zh-Hans" : {
@@ -44225,7 +44225,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Basal theo lịch trình"
+            "value" : "Liều nền theo lịch trình"
           }
         },
         "zh-Hans" : {
@@ -44362,7 +44362,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã lên chương trình cho liều Basal"
+            "value" : "Đã lên chương trình cho liều nền"
           }
         },
         "zh-Hans" : {
@@ -49040,7 +49040,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều basal tạm thời đang tiến hành"
+            "value" : "Liều nền tạm thời đang tiến hành"
           }
         },
         "zh-Hans" : {
@@ -49177,7 +49177,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều basal tạm thời đang thực hiện"
+            "value" : "Liều nền tạm thời đang thực hiện"
           }
         },
         "zh-Hans" : {
@@ -49314,7 +49314,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TempBasal: %1$@ U/giờ %2$@ %3$@ %4$@ U %5$@"
+            "value" : "Liều nền tạm thời: %1$@ U/giờ %2$@ %3$@ %4$@ U %5$@"
           }
         },
         "zh-Hans" : {
@@ -50684,7 +50684,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PumpManager này chưa được thiết lập mức basal tối đa vì nó được thêm vào trước khi tính năng basal tạm thời thủ công có sẵn. Vui lòng đặt mức basal tối đa mới."
+            "value" : "PumpManager này chưa được thiết lập mức liều nền tối đa vì nó được thêm vào trước khi tính năng liều nền tạm thời thủ công có sẵn. Vui lòng đặt mức basal tối đa mới."
           }
         },
         "zh-Hans" : {
@@ -52882,7 +52882,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể cài đặt mức tỷ lệ liều cơ bản tạm thời: %1$@"
+            "value" : "Không thể cài đặt mức tỷ lệ liều nền tạm thời: %1$@"
           }
         },
         "zh-Hans" : {
@@ -53019,7 +53019,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể đặt mức basal tạm thời: %1$@\n\n%2$@"
+            "value" : "Không thể đặt mức liều nền tạm thời: %1$@\n\n%2$@"
           }
         },
         "zh-Hans" : {
@@ -54937,7 +54937,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chờ đợi liều basal tạm thời hoàn tất hoặc chọn ngưng để hủy"
+            "value" : "Chờ đợi liều nền tạm thời hoàn tất hoặc chọn dừng để hủy"
           }
         },
         "zh-Hans" : {
@@ -56307,7 +56307,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Việc cung cấp insulin của bạn sẽ không được điều chỉnh tự động cho đến khi mức cơ bản tạm thời kết thúc hoặc bị hủy bỏ."
+            "value" : "Việc cung cấp insulin của bạn sẽ không được điều chỉnh tự động cho đến khi tỷ lệ liều nền tạm thời kết thúc hoặc bị hủy bỏ."
           }
         },
         "zh-Hans" : {
