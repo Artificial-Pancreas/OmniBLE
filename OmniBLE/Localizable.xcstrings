@@ -3787,8 +3787,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ insulin or less remaining in Pod. Change Pod soon."
+            "state" : "translated",
+            "value" : "%1$@ de insulină sau mai puțin rămase în pompă. Schimbați pompa în curând."
           }
         },
         "ru" : {
@@ -14363,7 +14363,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Realizat"
+            "value" : "Gata"
           }
         },
         "ru" : {
@@ -18760,8 +18760,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fill a new pod with U-100 Insulin (leave blue Pod needle cap on)."
+            "state" : "translated",
+            "value" : "Umpleți o pompă nouă cu insulină U-100  (nu înlăturați capacul albastru al acului de pe pompă)."
           }
         },
         "ru" : {
@@ -20137,8 +20137,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If you cancel Pod setup, the current Pod will be deactivated and will be unusable."
+            "state" : "translated",
+            "value" : "Dacă anulați configurarea pompei, pompa actuală va fi dezactivată și va fi inutilizabilă."
           }
         },
         "ru" : {
@@ -27281,8 +27281,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No confidence reminders are used."
+            "state" : "translated",
+            "value" : "Nu se folosesc mementouri de confirmare."
           }
         },
         "ru" : {
@@ -27692,8 +27692,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Pod"
+            "state" : "translated",
+            "value" : "Nicio pompă"
           }
         },
         "ru" : {
@@ -28932,8 +28932,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Normal operation mode where audible Pod beeps are used for all Pod alerts and when confidence reminders are enabled."
+            "state" : "translated",
+            "value" : "Modul normal de funcționare, în care semnalele acustice ale pompei sunt utilizate pentru toate alertele pompei și atunci când sunt activate notificările de confirmare."
           }
         },
         "ru" : {
@@ -34013,8 +34013,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please use a different device with bluetooth capabilities"
+            "state" : "translated",
+            "value" : "Vă rugăm să utilizați un alt dispozitiv cu capabilități Bluetooth"
           }
         },
         "ru" : {
@@ -42282,8 +42282,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remove blue Pod needle cap and check cannula. Then remove paper backing."
+            "state" : "translated",
+            "value" : "Scoateți capacul albastru de ac de pe pompă și verificați canula. Apoi înlăturați eticheta de hârtie de pe spate."
           }
         },
         "ru" : {
@@ -44611,8 +44611,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select the type of insulin that you will be using in this pod."
+            "state" : "translated",
+            "value" : "Selectați tipul de insulină pe care o veți utiliza în această pompă."
           }
         },
         "ru" : {
@@ -49849,8 +49849,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The reminders above will not sound on your device when it is in Silent or Do Not Disturb mode. There are other critical Pod alerts that will sound on your device even when set to Silent or Do Not Disturb mode.\n\nThe Pod will also use audible beeps for all Pod reminders and alerts except when the Pod is Silenced."
+            "state" : "translated",
+            "value" : "Avertismentele de mai sus nu vor suna pe dispozitivul dumneavoastră atunci când acesta este în modul Silențios sau Nu deranjați. Există și alte alerte critice ale pompei care vor suna pe dispozitivul dumneavoastră chiar și atunci când este setat în modul Silențios sau Nu deranjați. \n\nPompa va utiliza, de asemenea, semnale sonore pentru toate notificările și alertele de pompă, cu excepția cazului în care pompa este în mod silențios."
           }
         },
         "ru" : {
@@ -56157,8 +56157,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You will now begin the process of configuring your reminders, filling your Pod with insulin, pairing to your device and placing it on your body."
+            "state" : "translated",
+            "value" : "Veți începe acum procesul de configurare a memento-urilor, umplerea pompei cu insulină, asocierea cu dispozitivul dumneavoastră și amplasarea acestuia pe corp."
           }
         },
         "ru" : {
