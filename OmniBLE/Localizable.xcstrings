@@ -1185,8 +1185,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nDelivery Status: %1$@"
+            "state" : "translated",
+            "value" : "\nStadiul administrării: %1$@"
           }
         },
         "ru" : {
@@ -3530,7 +3530,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ nu a putut comunica cu pompa de pe corpul dumneavoastră din %2$@. \n \nNu înlăturați pompa fără a derula pentru a citi întregul ecran. \n \nComunicarea a fost întreruptă într-un moment critic. Informațiile despre insulina activă / rata bazală temporară ale pompei sunt incerte. \n \nPuteți dezactiva și activa Bluetooth-ul telefonului sau puteți închide și reporni aplicația. (Așteptați până la 30 de secunde pentru recuperare.) \n \nDacă decideți să renunțați deoarece comunicarea nu poate fi restabilită, atingeți butonul Înlăturați pompa, urmați pașii și porniți o pompă nouă. \nMonitorizați-vă cu atenție glicemia pentru  următoarele 6 ore, deoarece este posibil să existe sau nu insulină care acționează activ în corpul dumneavoastră și pe care %3$@ nu o poate afișa."
+            "value" : "%1$@ nu a putut comunica cu pompa de pe corpul dumneavoastră din %2$@. \n \nNu înlăturați pompa fără a derula pentru a citi întregul ecran. \n \nComunicarea a fost întreruptă într-un moment critic. Informațiile despre insulina activă / rata bazală temporară ale pompei sunt incerte. \n \nPuteți dezactiva și activa Bluetooth-ul telefonului sau puteți închide și reporni aplicația. (Așteptați până la 30 de secunde pentru recuperare.) \n \nDacă decideți să renunțați deoarece comunicarea nu poate fi restabilită, atingeți butonul Înlăturați pompa, urmați pașii și porniți o pompă nouă. \nMonitorizați-vă cu atenție glicemia pentru următoarele 6 ore, deoarece este posibil să existe sau nu insulină care acționează activ în corpul dumneavoastră și pe care %3$@ nu o poate afișa."
           }
         },
         "ru" : {
@@ -5310,8 +5310,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Activation time exceeded"
+            "state" : "translated",
+            "value" : "Timp de activare depășit"
           }
         },
         "ru" : {
@@ -5721,8 +5721,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Adjusting Pump Time..."
+            "state" : "translated",
+            "value" : "Reglare oră pompă..."
           }
         },
         "ru" : {
@@ -7515,8 +7515,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bluetooth is powered off"
+            "state" : "translated",
+            "value" : "Bluetooth este oprit"
           }
         },
         "ru" : {
@@ -7652,8 +7652,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bluetooth is resetting"
+            "state" : "translated",
+            "value" : "Bluetooth se resetează"
           }
         },
         "ru" : {
@@ -8474,8 +8474,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus in progress"
+            "state" : "translated",
+            "value" : "Bolus în desfășurare"
           }
         },
         "ru" : {
@@ -8748,8 +8748,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolusing"
+            "state" : "translated",
+            "value" : "Bolusare"
           }
         },
         "ru" : {
@@ -8885,8 +8885,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolusing with temp basal"
+            "state" : "translated",
+            "value" : "Bolusare cu rata bazală temporară"
           }
         },
         "ru" : {
@@ -9022,8 +9022,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -9577,8 +9577,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Certain"
+            "state" : "translated",
+            "value" : "Sigur"
           }
         },
         "ru" : {
@@ -9714,8 +9714,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Pod now. Insulin delivery will stop 8 hours after the Pod has expired or when no more insulin remains."
+            "state" : "translated",
+            "value" : "Schimbați pompa acum. Administrarea insulinei se va opri la 8 ore după expirarea pompei sau când nu mai rămâne deloc insulină."
           }
         },
         "ru" : {
@@ -9851,8 +9851,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Pod now. Insulin delivery will stop in %1$@ or when no more insulin remains."
+            "state" : "translated",
+            "value" : "Schimbați pompa acum. Administrarea insulinei se va opri în %1$@ sau când nu mai rămâne insulină."
           }
         },
         "ru" : {
@@ -10947,8 +10947,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Comms Issue"
+            "state" : "translated",
+            "value" : "Problemă comunicații"
           }
         },
         "ru" : {
@@ -11632,8 +11632,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When %1$@ automatically adjusts delivery, no confidence reminders are used."
+            "state" : "translated",
+            "value" : "Notificările de confirmare vor suna pentru comenzile pe care le inițiați, cum ar fi bolus, anulare bolus, suspendare, reluare, salvare mementouri de notificare etc. Când %1$@ ajustează automat administrarea, nu se folosesc notificări de confirmare."
           }
         },
         "ru" : {
@@ -11769,8 +11769,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Confidence reminders will sound when %1$@ automatically adjusts delivery as well as for commands you initiate."
+            "state" : "translated",
+            "value" : "Notificările de confirmare vor suna atunci când %1$@ ajustează automat administrarea, precum și pentru comenzile pe care le inițiați."
           }
         },
         "ru" : {
@@ -12235,6 +12235,12 @@
             "state" : "translated",
             "value" : "Conectat"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已连接"
+          }
         }
       }
     },
@@ -12464,8 +12470,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not parse message: %1$@"
+            "state" : "translated",
+            "value" : "Eșec la analiza mesajul: %1$@"
           }
         },
         "ru" : {
@@ -13287,7 +13293,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezactivează pompă"
+            "value" : "Dezactivați pompă"
           }
         },
         "ru" : {
@@ -14299,6 +14305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deconectați"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "断开连接"
           }
         }
       }
@@ -16761,8 +16773,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to Cancel Manual Basal"
+            "state" : "translated",
+            "value" : "Eșec la anularea bazalei manuale"
           }
         },
         "ru" : {
@@ -16898,8 +16910,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to play test beeps."
+            "state" : "translated",
+            "value" : "Eșec la a reda semnalele sonore de test."
           }
         },
         "ru" : {
@@ -17035,8 +17047,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read activation time."
+            "state" : "translated",
+            "value" : "Eșec la citi timpul de activare."
           }
         },
         "ru" : {
@@ -17172,8 +17184,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read pod status."
+            "state" : "translated",
+            "value" : "Eșec la citi starea pompei."
           }
         },
         "ru" : {
@@ -17309,8 +17321,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read pulse log plus."
+            "state" : "translated",
+            "value" : "Eșec la citirea registrului plus de impulsuri."
           }
         },
         "ru" : {
@@ -17446,8 +17458,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read pulse log."
+            "state" : "translated",
+            "value" : "Eșec la citirea registrului de impulsuri."
           }
         },
         "ru" : {
@@ -17583,8 +17595,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read triggered alerts."
+            "state" : "translated",
+            "value" : "Eșec la a citi alertele declanșate."
           }
         },
         "ru" : {
@@ -17720,8 +17732,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to Resume Insulin Delivery"
+            "state" : "translated",
+            "value" : "Eșec la reluarea administrării de insulină"
           }
         },
         "ru" : {
@@ -17858,7 +17870,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit setarea timpului de pe pompă"
+            "value" : "Eșec la setarea timpului de pe pompă"
           }
         },
         "ru" : {
@@ -17994,8 +18006,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to Suspend Insulin Delivery"
+            "state" : "translated",
+            "value" : "Eșec la suspendarea administrării de insulină"
           }
         },
         "ru" : {
@@ -18131,8 +18143,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to update confidence reminder preference."
+            "state" : "translated",
+            "value" : "Eșec la actualizarea preferinței în ceea ce privește memento-ul de confirmare."
           }
         },
         "ru" : {
@@ -18268,8 +18280,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to Update Expiration Reminder"
+            "state" : "translated",
+            "value" : "Eșec la actualizarea mementoului de expirare"
           }
         },
         "ru" : {
@@ -18405,8 +18417,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to Update Low Reservoir Reminder"
+            "state" : "translated",
+            "value" : "Eșec la actualizarea mementoului privind rezervorul scăzut"
           }
         },
         "ru" : {
@@ -18543,7 +18555,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit actualizarea preferinței în ceea ce privește modul de pompă silențioasă."
+            "value" : "Eșec la actualizarea preferinței în ceea ce privește modul de pompă silențioasă."
           }
         },
         "ru" : {
@@ -18679,8 +18691,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fault event occurred"
+            "state" : "translated",
+            "value" : "A apărut un eveniment de eroare"
           }
         },
         "ru" : {
@@ -18817,7 +18829,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Umpleți o pompă nouă cu insulină U-100  (nu înlăturați capacul albastru al acului de pe pompă)."
+            "value" : "Umpleți o pompă nouă cu insulină U-100 (nu înlăturați capacul albastru al acului de pe pompă)."
           }
         },
         "ru" : {
@@ -19508,8 +19520,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Finish setup reminder"
+            "state" : "translated",
+            "value" : "Memento finalizare configurare"
           }
         },
         "ru" : {
@@ -24193,8 +24205,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Lot Number"
+            "state" : "translated",
+            "value" : "Numărul lot"
           }
         },
         "ru" : {
@@ -24885,8 +24897,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Make sure iPhone is nearby the active pod"
+            "state" : "translated",
+            "value" : "Asigurați-vă că iPhone este în apropierea pompei active"
           }
         },
         "ru" : {
@@ -29156,8 +29168,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not enough data"
+            "state" : "translated",
+            "value" : "Date insuficiente"
           }
         },
         "ru" : {
@@ -29430,8 +29442,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notification Settings"
+            "state" : "translated",
+            "value" : "Setări notificări"
           }
         },
         "ru" : {
@@ -30806,8 +30818,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair Pod"
+            "state" : "translated",
+            "value" : "Asociați o pompă"
           }
         },
         "ru" : {
@@ -30943,8 +30955,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pair pod."
+            "state" : "translated",
+            "value" : "Asociați o pompă"
           }
         },
         "ru" : {
@@ -33415,8 +33427,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please enable bluetooth permissions for this app in system settings"
+            "state" : "translated",
+            "value" : "Vă rugăm să activați permisiunile Bluetooth pentru această aplicație în setările de sistem"
           }
         },
         "ru" : {
@@ -33826,8 +33838,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please reposition iPhone further from the pod"
+            "state" : "translated",
+            "value" : "Vă rugăm să repoziționați iPhone mai departe de pompă"
           }
         },
         "ru" : {
@@ -33964,7 +33976,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vă rugăm să repoziționați iPhone-ul mai aproape de pompă"
+            "value" : "Vă rugăm să repoziționați iPhone mai aproape de pompă"
           }
         },
         "ru" : {
@@ -37229,7 +37241,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menținerea în viață a pompei este activată. Solicitare suplimentară de stare a pompei este emisă după 2 minute și 40 de secunde.\n\nÎncercați să mențineți pompa conectaăt chiar și atunci când telefonul este blocat printr-o melodie silențioasă care se redă în fundal. Melodia silențioasă poate fi întreruptă de alte aplicații. Dacă melodia silențioasă este întreruptă, funcția de menținere în viață a pompei nu mai funcționează. Melodia silențioasă consumă suplimentar din bateria telefonului."
+            "value" : "Menținerea în viață a pompei este activată. Solicitare suplimentară de stare a pompei este emisă după 2 minute și 40 de secunde.\n\nÎncercați să mențineți pompa conectată chiar și atunci când telefonul este blocat printr-o melodie silențioasă care se redă în fundal. Melodia silențioasă poate fi întreruptă de alte aplicații. Dacă melodia silențioasă este întreruptă, funcția de menținere în viață a pompei nu mai funcționează. Melodia silențioasă consumă suplimentar din bateria telefonului."
           }
         }
       }
@@ -38437,8 +38449,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pod suspended reminder"
+            "state" : "translated",
+            "value" : "Memento pompă suspendată"
           }
         },
         "ru" : {
@@ -39534,8 +39546,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Priming. Please wait."
+            "state" : "translated",
+            "value" : "Se amorsează. Vă rugăm să așteptați."
           }
         },
         "ru" : {
@@ -39671,8 +39683,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Priming..."
+            "state" : "translated",
+            "value" : "Se amorsează..."
           }
         },
         "ru" : {
@@ -41795,6 +41807,12 @@
             "state" : "translated",
             "value" : "Reconectare..."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在重连..."
+          }
         }
       }
     },
@@ -42710,7 +42728,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină pompa"
+            "value" : "Eliminați pompa"
           }
         },
         "ru" : {
@@ -43942,8 +43960,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Retry"
+            "state" : "translated",
+            "value" : "Reîncercați"
           }
         },
         "ru" : {
@@ -44101,7 +44119,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează"
+            "value" : "Salvați"
           }
         },
         "ru" : {
@@ -46363,7 +46381,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Melodia tăcută"
+            "value" : "Melodie silențioasă"
           }
         }
       }
@@ -47278,8 +47296,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Suspend Delivery"
+            "state" : "translated",
+            "value" : "Suspendați administrarea"
           }
         },
         "ru" : {
@@ -49359,8 +49377,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temp basal running"
+            "state" : "translated",
+            "value" : "Bazala temporară este în desfășurare"
           }
         },
         "ru" : {
@@ -55447,7 +55465,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Când este activat și pompa se află în raza de acțiune, sunt emise solicitări suplimentare de stare pentru a minimiza deconectările Bluetooth ale acesteia."
+            "value" : "Când este activat și pompa se află în raza de acțiune, sunt emise solicitări suplimentare de stare a pompei pentru a minimiza deconectările Bluetooth ale pompei."
           }
         }
       }
@@ -56100,8 +56118,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You will be notified when the amount of insulin in the Pod reaches a selected level.\n\nScroll to set the number of units (1 to 50) at which you would like to be reminded."
+            "state" : "translated",
+            "value" : "Veți fi notificat când cantitatea de insulină din pompă atinge un nivel selectat. \n \nDerulați pentru a seta numărul de unități (1 până la 50) la care doriți să fiți notificat."
           }
         },
         "ru" : {
@@ -56375,7 +56393,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veți începe acum procesul de configurare a memento-urilor, umplerea pompei cu insulină, asocierea cu dispozitivul dumneavoastră și amplasarea acestuia pe corp."
+            "value" : "Veți începe acum procesul de configurare a mementourilor, umplerea pompei cu insulină, asocierea cu dispozitivul dumneavoastră și amplasarea acestuia pe corp."
           }
         },
         "ru" : {
